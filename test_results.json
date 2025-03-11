@@ -1,0 +1,4809 @@
+{
+    "total_tests": 600,
+    "successful_tests": 600,
+    "failed_tests": 0,
+    "correct_predictions": 169,
+    "predictions": [
+        {
+            "image_path": "test_data\\A\\1.jpg",
+            "expected_class": "A",
+            "predicted_class": "A",
+            "confidence": 0.3505478501319885,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\A\\10.jpg",
+            "expected_class": "A",
+            "predicted_class": "Shha",
+            "confidence": 0.5781106352806091,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\A\\2.jpg",
+            "expected_class": "A",
+            "predicted_class": "Shha",
+            "confidence": 0.5294345617294312,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\A\\3.jpg",
+            "expected_class": "A",
+            "predicted_class": "Shha",
+            "confidence": 0.4196512997150421,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\A\\4.jpg",
+            "expected_class": "A",
+            "predicted_class": "Shha",
+            "confidence": 0.6204639077186584,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\A\\5.jpg",
+            "expected_class": "A",
+            "predicted_class": "Shha",
+            "confidence": 0.5033953189849854,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\A\\6.jpg",
+            "expected_class": "A",
+            "predicted_class": "Shha",
+            "confidence": 0.6607406735420227,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\A\\7.jpg",
+            "expected_class": "A",
+            "predicted_class": "Shha",
+            "confidence": 0.813996434211731,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\A\\8.jpg",
+            "expected_class": "A",
+            "predicted_class": "Shha",
+            "confidence": 0.49933308362960815,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\A\\9.jpg",
+            "expected_class": "A",
+            "predicted_class": "Shha",
+            "confidence": 0.647884726524353,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Aa\\1.jpg",
+            "expected_class": "Aa",
+            "predicted_class": "Aa",
+            "confidence": 0.6111234426498413,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Aa\\10.jpg",
+            "expected_class": "Aa",
+            "predicted_class": "Aa",
+            "confidence": 0.617333173751831,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Aa\\2.jpg",
+            "expected_class": "Aa",
+            "predicted_class": "Aa",
+            "confidence": 0.687768280506134,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Aa\\3.jpg",
+            "expected_class": "Aa",
+            "predicted_class": "Aa",
+            "confidence": 0.6134947538375854,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Aa\\4.jpg",
+            "expected_class": "Aa",
+            "predicted_class": "Aa",
+            "confidence": 0.7471228837966919,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Aa\\5.jpg",
+            "expected_class": "Aa",
+            "predicted_class": "Aa",
+            "confidence": 0.5139175653457642,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Aa\\6.jpg",
+            "expected_class": "Aa",
+            "predicted_class": "Aa",
+            "confidence": 0.4701756536960602,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Aa\\7.jpg",
+            "expected_class": "Aa",
+            "predicted_class": "Aa",
+            "confidence": 0.6209338307380676,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Aa\\8.jpg",
+            "expected_class": "Aa",
+            "predicted_class": "Aa",
+            "confidence": 0.5585906505584717,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Aa\\9.jpg",
+            "expected_class": "Aa",
+            "predicted_class": "Aa",
+            "confidence": 0.5832236409187317,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ah\\1.jpg",
+            "expected_class": "Ah",
+            "predicted_class": "Shha",
+            "confidence": 0.35168692469596863,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ah\\10.jpg",
+            "expected_class": "Ah",
+            "predicted_class": "A",
+            "confidence": 0.2822254002094269,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ah\\2.jpg",
+            "expected_class": "Ah",
+            "predicted_class": "Shha",
+            "confidence": 0.2501879036426544,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ah\\3.jpg",
+            "expected_class": "Ah",
+            "predicted_class": "Shha",
+            "confidence": 0.3318731188774109,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ah\\4.jpg",
+            "expected_class": "Ah",
+            "predicted_class": "A",
+            "confidence": 0.35918939113616943,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ah\\5.jpg",
+            "expected_class": "Ah",
+            "predicted_class": "A",
+            "confidence": 0.35204172134399414,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ah\\6.jpg",
+            "expected_class": "Ah",
+            "predicted_class": "A",
+            "confidence": 0.2994585633277893,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ah\\7.jpg",
+            "expected_class": "Ah",
+            "predicted_class": "A",
+            "confidence": 0.5438664555549622,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ah\\8.jpg",
+            "expected_class": "Ah",
+            "predicted_class": "A",
+            "confidence": 0.36007314920425415,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ah\\9.jpg",
+            "expected_class": "Ah",
+            "predicted_class": "A",
+            "confidence": 0.582954466342926,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ai\\1.jpg",
+            "expected_class": "Ai",
+            "predicted_class": "Shha",
+            "confidence": 0.3408818542957306,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ai\\10.jpg",
+            "expected_class": "Ai",
+            "predicted_class": "Shha",
+            "confidence": 0.5601457357406616,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ai\\2.jpg",
+            "expected_class": "Ai",
+            "predicted_class": "Shha",
+            "confidence": 0.43613630533218384,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ai\\3.jpg",
+            "expected_class": "Ai",
+            "predicted_class": "Pha",
+            "confidence": 0.2960590422153473,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ai\\4.jpg",
+            "expected_class": "Ai",
+            "predicted_class": "Shha",
+            "confidence": 0.625758171081543,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ai\\5.jpg",
+            "expected_class": "Ai",
+            "predicted_class": "Shha",
+            "confidence": 0.4437607228755951,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ai\\6.jpg",
+            "expected_class": "Ai",
+            "predicted_class": "Shha",
+            "confidence": 0.6859857439994812,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ai\\7.jpg",
+            "expected_class": "Ai",
+            "predicted_class": "Shha",
+            "confidence": 0.7100378274917603,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ai\\8.jpg",
+            "expected_class": "Ai",
+            "predicted_class": "Shha",
+            "confidence": 0.6433621048927307,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ai\\9.jpg",
+            "expected_class": "Ai",
+            "predicted_class": "Shha",
+            "confidence": 0.6840026378631592,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Am\\1.jpg",
+            "expected_class": "Am",
+            "predicted_class": "Shha",
+            "confidence": 0.4962959289550781,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Am\\10.jpg",
+            "expected_class": "Am",
+            "predicted_class": "Shha",
+            "confidence": 0.46039879322052,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Am\\2.jpg",
+            "expected_class": "Am",
+            "predicted_class": "Shha",
+            "confidence": 0.4549486041069031,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Am\\3.jpg",
+            "expected_class": "Am",
+            "predicted_class": "Shha",
+            "confidence": 0.8671165108680725,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Am\\4.jpg",
+            "expected_class": "Am",
+            "predicted_class": "Shha",
+            "confidence": 0.8769930601119995,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Am\\5.jpg",
+            "expected_class": "Am",
+            "predicted_class": "Shha",
+            "confidence": 0.47208863496780396,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Am\\6.jpg",
+            "expected_class": "Am",
+            "predicted_class": "Shha",
+            "confidence": 0.3681083023548126,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Am\\7.jpg",
+            "expected_class": "Am",
+            "predicted_class": "Gha",
+            "confidence": 0.39636385440826416,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Am\\8.jpg",
+            "expected_class": "Am",
+            "predicted_class": "Shha",
+            "confidence": 0.5941030383110046,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Am\\9.jpg",
+            "expected_class": "Am",
+            "predicted_class": "Shha",
+            "confidence": 0.48203936219215393,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Au\\1.jpg",
+            "expected_class": "Au",
+            "predicted_class": "Ee",
+            "confidence": 0.16805638372898102,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Au\\10.jpg",
+            "expected_class": "Au",
+            "predicted_class": "Da",
+            "confidence": 0.10131334513425827,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Au\\2.jpg",
+            "expected_class": "Au",
+            "predicted_class": "Nga",
+            "confidence": 0.16495466232299805,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Au\\3.jpg",
+            "expected_class": "Au",
+            "predicted_class": "Nga",
+            "confidence": 0.1407337188720703,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Au\\4.jpg",
+            "expected_class": "Au",
+            "predicted_class": "Nga",
+            "confidence": 0.11910165846347809,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Au\\5.jpg",
+            "expected_class": "Au",
+            "predicted_class": "O",
+            "confidence": 0.12862852215766907,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Au\\6.jpg",
+            "expected_class": "Au",
+            "predicted_class": "Ee",
+            "confidence": 0.2158387154340744,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Au\\7.jpg",
+            "expected_class": "Au",
+            "predicted_class": "Ee",
+            "confidence": 0.2140771895647049,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Au\\8.jpg",
+            "expected_class": "Au",
+            "predicted_class": "Space",
+            "confidence": 0.23750899732112885,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Au\\9.jpg",
+            "expected_class": "Au",
+            "predicted_class": "Ee",
+            "confidence": 0.12127459049224854,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ba\\1.jpg",
+            "expected_class": "Ba",
+            "predicted_class": "Nothing",
+            "confidence": 0.7374091744422913,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ba\\10.jpg",
+            "expected_class": "Ba",
+            "predicted_class": "Nothing",
+            "confidence": 0.7889184951782227,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ba\\2.jpg",
+            "expected_class": "Ba",
+            "predicted_class": "Nothing",
+            "confidence": 0.9111505746841431,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ba\\3.jpg",
+            "expected_class": "Ba",
+            "predicted_class": "Nothing",
+            "confidence": 0.8645033240318298,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ba\\4.jpg",
+            "expected_class": "Ba",
+            "predicted_class": "Nothing",
+            "confidence": 0.7731767892837524,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ba\\5.jpg",
+            "expected_class": "Ba",
+            "predicted_class": "Nothing",
+            "confidence": 0.5789583325386047,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ba\\6.jpg",
+            "expected_class": "Ba",
+            "predicted_class": "Nothing",
+            "confidence": 0.716426432132721,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ba\\7.jpg",
+            "expected_class": "Ba",
+            "predicted_class": "Nothing",
+            "confidence": 0.5881090760231018,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ba\\8.jpg",
+            "expected_class": "Ba",
+            "predicted_class": "Nothing",
+            "confidence": 0.7373803853988647,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ba\\9.jpg",
+            "expected_class": "Ba",
+            "predicted_class": "Nothing",
+            "confidence": 0.7488309741020203,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Bha\\1.jpg",
+            "expected_class": "Bha",
+            "predicted_class": "Lha",
+            "confidence": 0.5098196864128113,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Bha\\10.jpg",
+            "expected_class": "Bha",
+            "predicted_class": "Lha",
+            "confidence": 0.8307539820671082,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Bha\\2.jpg",
+            "expected_class": "Bha",
+            "predicted_class": "Lha",
+            "confidence": 0.345321387052536,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Bha\\3.jpg",
+            "expected_class": "Bha",
+            "predicted_class": "Lha",
+            "confidence": 0.46314799785614014,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Bha\\4.jpg",
+            "expected_class": "Bha",
+            "predicted_class": "Lha",
+            "confidence": 0.6384345293045044,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Bha\\5.jpg",
+            "expected_class": "Bha",
+            "predicted_class": "Lha",
+            "confidence": 0.3341962993144989,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Bha\\6.jpg",
+            "expected_class": "Bha",
+            "predicted_class": "Lha",
+            "confidence": 0.8154878616333008,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Bha\\7.jpg",
+            "expected_class": "Bha",
+            "predicted_class": "Lha",
+            "confidence": 0.8963607549667358,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Bha\\8.jpg",
+            "expected_class": "Bha",
+            "predicted_class": "Lha",
+            "confidence": 0.8856582641601562,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Bha\\9.jpg",
+            "expected_class": "Bha",
+            "predicted_class": "Lha",
+            "confidence": 0.935627281665802,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ca\\1.jpg",
+            "expected_class": "Ca",
+            "predicted_class": "Lha",
+            "confidence": 0.3464929461479187,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ca\\10.jpg",
+            "expected_class": "Ca",
+            "predicted_class": "Lha",
+            "confidence": 0.6403101086616516,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ca\\2.jpg",
+            "expected_class": "Ca",
+            "predicted_class": "Lha",
+            "confidence": 0.5604227185249329,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ca\\3.jpg",
+            "expected_class": "Ca",
+            "predicted_class": "Lha",
+            "confidence": 0.4594215750694275,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ca\\4.jpg",
+            "expected_class": "Ca",
+            "predicted_class": "Lha",
+            "confidence": 0.5139927268028259,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ca\\5.jpg",
+            "expected_class": "Ca",
+            "predicted_class": "Lha",
+            "confidence": 0.5708138346672058,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ca\\6.jpg",
+            "expected_class": "Ca",
+            "predicted_class": "Lha",
+            "confidence": 0.5325058698654175,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ca\\7.jpg",
+            "expected_class": "Ca",
+            "predicted_class": "Lha",
+            "confidence": 0.5824935436248779,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ca\\8.jpg",
+            "expected_class": "Ca",
+            "predicted_class": "Lha",
+            "confidence": 0.7403692007064819,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ca\\9.jpg",
+            "expected_class": "Ca",
+            "predicted_class": "Lha",
+            "confidence": 0.7706370949745178,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Cha\\1.jpg",
+            "expected_class": "Cha",
+            "predicted_class": "Pa",
+            "confidence": 0.3802046775817871,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Cha\\10.jpg",
+            "expected_class": "Cha",
+            "predicted_class": "Gha",
+            "confidence": 0.4488426446914673,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Cha\\2.jpg",
+            "expected_class": "Cha",
+            "predicted_class": "Pa",
+            "confidence": 0.4683711528778076,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Cha\\3.jpg",
+            "expected_class": "Cha",
+            "predicted_class": "Pa",
+            "confidence": 0.47450461983680725,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Cha\\4.jpg",
+            "expected_class": "Cha",
+            "predicted_class": "Pa",
+            "confidence": 0.40262019634246826,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Cha\\5.jpg",
+            "expected_class": "Cha",
+            "predicted_class": "Gha",
+            "confidence": 0.47587907314300537,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Cha\\6.jpg",
+            "expected_class": "Cha",
+            "predicted_class": "Pa",
+            "confidence": 0.4495558440685272,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Cha\\7.jpg",
+            "expected_class": "Cha",
+            "predicted_class": "Gha",
+            "confidence": 0.4568488299846649,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Cha\\8.jpg",
+            "expected_class": "Cha",
+            "predicted_class": "Pa",
+            "confidence": 0.4427560269832611,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Cha\\9.jpg",
+            "expected_class": "Cha",
+            "predicted_class": "Pa",
+            "confidence": 0.41037970781326294,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Da\\1.jpg",
+            "expected_class": "Da",
+            "predicted_class": "Gha",
+            "confidence": 0.31989842653274536,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Da\\10.jpg",
+            "expected_class": "Da",
+            "predicted_class": "Gha",
+            "confidence": 0.2952766716480255,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Da\\2.jpg",
+            "expected_class": "Da",
+            "predicted_class": "Gha",
+            "confidence": 0.23011355102062225,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Da\\3.jpg",
+            "expected_class": "Da",
+            "predicted_class": "E",
+            "confidence": 0.2279517501592636,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Da\\4.jpg",
+            "expected_class": "Da",
+            "predicted_class": "E",
+            "confidence": 0.2293487936258316,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Da\\5.jpg",
+            "expected_class": "Da",
+            "predicted_class": "E",
+            "confidence": 0.27052611112594604,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Da\\6.jpg",
+            "expected_class": "Da",
+            "predicted_class": "D_ha",
+            "confidence": 0.2132135033607483,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Da\\7.jpg",
+            "expected_class": "Da",
+            "predicted_class": "E",
+            "confidence": 0.1845855861902237,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Da\\8.jpg",
+            "expected_class": "Da",
+            "predicted_class": "D_ha",
+            "confidence": 0.261259526014328,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Da\\9.jpg",
+            "expected_class": "Da",
+            "predicted_class": "Gha",
+            "confidence": 0.22084036469459534,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Dha\\1.jpg",
+            "expected_class": "Dha",
+            "predicted_class": "T_ha",
+            "confidence": 0.5634957551956177,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Dha\\10.jpg",
+            "expected_class": "Dha",
+            "predicted_class": "T_ha",
+            "confidence": 0.6268385648727417,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Dha\\2.jpg",
+            "expected_class": "Dha",
+            "predicted_class": "T_ha",
+            "confidence": 0.4039923846721649,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Dha\\3.jpg",
+            "expected_class": "Dha",
+            "predicted_class": "T_ha",
+            "confidence": 0.4300718307495117,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Dha\\4.jpg",
+            "expected_class": "Dha",
+            "predicted_class": "T_ha",
+            "confidence": 0.37983956933021545,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Dha\\5.jpg",
+            "expected_class": "Dha",
+            "predicted_class": "T_ha",
+            "confidence": 0.48242953419685364,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Dha\\6.jpg",
+            "expected_class": "Dha",
+            "predicted_class": "T_ha",
+            "confidence": 0.43356814980506897,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Dha\\7.jpg",
+            "expected_class": "Dha",
+            "predicted_class": "T_ha",
+            "confidence": 0.5579420924186707,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Dha\\8.jpg",
+            "expected_class": "Dha",
+            "predicted_class": "T_ha",
+            "confidence": 0.6520476341247559,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Dha\\9.jpg",
+            "expected_class": "Dha",
+            "predicted_class": "T_ha",
+            "confidence": 0.5394760370254517,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_a\\1.jpg",
+            "expected_class": "D_a",
+            "predicted_class": "Shha",
+            "confidence": 0.6314972043037415,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_a\\10.jpg",
+            "expected_class": "D_a",
+            "predicted_class": "Shha",
+            "confidence": 0.4517802596092224,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_a\\2.jpg",
+            "expected_class": "D_a",
+            "predicted_class": "Shha",
+            "confidence": 0.6900477409362793,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_a\\3.jpg",
+            "expected_class": "D_a",
+            "predicted_class": "Shha",
+            "confidence": 0.6538892388343811,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_a\\4.jpg",
+            "expected_class": "D_a",
+            "predicted_class": "Shha",
+            "confidence": 0.7472258806228638,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_a\\5.jpg",
+            "expected_class": "D_a",
+            "predicted_class": "Shha",
+            "confidence": 0.6444095373153687,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_a\\6.jpg",
+            "expected_class": "D_a",
+            "predicted_class": "Shha",
+            "confidence": 0.6526712775230408,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_a\\7.jpg",
+            "expected_class": "D_a",
+            "predicted_class": "Shha",
+            "confidence": 0.47584378719329834,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_a\\8.jpg",
+            "expected_class": "D_a",
+            "predicted_class": "Shha",
+            "confidence": 0.49071004986763,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_a\\9.jpg",
+            "expected_class": "D_a",
+            "predicted_class": "Shha",
+            "confidence": 0.4517802596092224,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_ha\\1.jpg",
+            "expected_class": "D_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.9154912829399109,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_ha\\10.jpg",
+            "expected_class": "D_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.8300464749336243,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_ha\\2.jpg",
+            "expected_class": "D_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.9075340628623962,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_ha\\3.jpg",
+            "expected_class": "D_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.9369695782661438,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_ha\\4.jpg",
+            "expected_class": "D_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.9738982319831848,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_ha\\5.jpg",
+            "expected_class": "D_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.9432510733604431,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_ha\\6.jpg",
+            "expected_class": "D_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.8902575969696045,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_ha\\7.jpg",
+            "expected_class": "D_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.6943597793579102,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_ha\\8.jpg",
+            "expected_class": "D_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.8096276521682739,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\D_ha\\9.jpg",
+            "expected_class": "D_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.7504492998123169,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E\\1.jpg",
+            "expected_class": "E",
+            "predicted_class": "E",
+            "confidence": 0.29541072249412537,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\E\\10.jpg",
+            "expected_class": "E",
+            "predicted_class": "E",
+            "confidence": 0.4073571562767029,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\E\\2.jpg",
+            "expected_class": "E",
+            "predicted_class": "Rha",
+            "confidence": 0.26381435990333557,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E\\3.jpg",
+            "expected_class": "E",
+            "predicted_class": "E",
+            "confidence": 0.2932175099849701,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\E\\4.jpg",
+            "expected_class": "E",
+            "predicted_class": "E",
+            "confidence": 0.4493009150028229,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\E\\5.jpg",
+            "expected_class": "E",
+            "predicted_class": "E",
+            "confidence": 0.3604505956172943,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\E\\6.jpg",
+            "expected_class": "E",
+            "predicted_class": "E",
+            "confidence": 0.41753679513931274,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\E\\7.jpg",
+            "expected_class": "E",
+            "predicted_class": "E",
+            "confidence": 0.3031529486179352,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\E\\8.jpg",
+            "expected_class": "E",
+            "predicted_class": "E",
+            "confidence": 0.3728606700897217,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\E\\9.jpg",
+            "expected_class": "E",
+            "predicted_class": "E",
+            "confidence": 0.3535539507865906,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ee\\1.jpg",
+            "expected_class": "Ee",
+            "predicted_class": "Rha",
+            "confidence": 0.23209762573242188,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee\\10.jpg",
+            "expected_class": "Ee",
+            "predicted_class": "Ee",
+            "confidence": 0.21008124947547913,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ee\\2.jpg",
+            "expected_class": "Ee",
+            "predicted_class": "Rha",
+            "confidence": 0.2962208092212677,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee\\3.jpg",
+            "expected_class": "Ee",
+            "predicted_class": "Ee",
+            "confidence": 0.16656485199928284,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ee\\4.jpg",
+            "expected_class": "Ee",
+            "predicted_class": "Rha",
+            "confidence": 0.17395640909671783,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee\\5.jpg",
+            "expected_class": "Ee",
+            "predicted_class": "Ee",
+            "confidence": 0.226885586977005,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ee\\6.jpg",
+            "expected_class": "Ee",
+            "predicted_class": "Ee",
+            "confidence": 0.2352856993675232,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ee\\7.jpg",
+            "expected_class": "Ee",
+            "predicted_class": "Ee",
+            "confidence": 0.13773144781589508,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ee\\8.jpg",
+            "expected_class": "Ee",
+            "predicted_class": "Rha",
+            "confidence": 0.26422837376594543,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee\\9.jpg",
+            "expected_class": "Ee",
+            "predicted_class": "E",
+            "confidence": 0.3630604147911072,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee_\\1.jpg",
+            "expected_class": "Ee_",
+            "predicted_class": "D_a",
+            "confidence": 0.5154334902763367,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee_\\10.jpg",
+            "expected_class": "Ee_",
+            "predicted_class": "D_a",
+            "confidence": 0.612981915473938,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee_\\2.jpg",
+            "expected_class": "Ee_",
+            "predicted_class": "D_a",
+            "confidence": 0.6421831250190735,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee_\\3.jpg",
+            "expected_class": "Ee_",
+            "predicted_class": "D_a",
+            "confidence": 0.6045060753822327,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee_\\4.jpg",
+            "expected_class": "Ee_",
+            "predicted_class": "D_a",
+            "confidence": 0.4426287114620209,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee_\\5.jpg",
+            "expected_class": "Ee_",
+            "predicted_class": "D_a",
+            "confidence": 0.46166712045669556,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee_\\6.jpg",
+            "expected_class": "Ee_",
+            "predicted_class": "D_a",
+            "confidence": 0.5136772394180298,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee_\\7.jpg",
+            "expected_class": "Ee_",
+            "predicted_class": "D_a",
+            "confidence": 0.37252166867256165,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee_\\8.jpg",
+            "expected_class": "Ee_",
+            "predicted_class": "D_a",
+            "confidence": 0.3975045680999756,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ee_\\9.jpg",
+            "expected_class": "Ee_",
+            "predicted_class": "D_a",
+            "confidence": 0.39919793605804443,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E_\\1.jpg",
+            "expected_class": "E_",
+            "predicted_class": "O",
+            "confidence": 0.2657436728477478,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E_\\10.jpg",
+            "expected_class": "E_",
+            "predicted_class": "O",
+            "confidence": 0.36638957262039185,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E_\\2.jpg",
+            "expected_class": "E_",
+            "predicted_class": "O",
+            "confidence": 0.4459839165210724,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E_\\3.jpg",
+            "expected_class": "E_",
+            "predicted_class": "Rha",
+            "confidence": 0.40170153975486755,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E_\\4.jpg",
+            "expected_class": "E_",
+            "predicted_class": "O",
+            "confidence": 0.5076379776000977,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E_\\5.jpg",
+            "expected_class": "E_",
+            "predicted_class": "O",
+            "confidence": 0.5693654417991638,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E_\\6.jpg",
+            "expected_class": "E_",
+            "predicted_class": "O",
+            "confidence": 0.42581164836883545,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E_\\7.jpg",
+            "expected_class": "E_",
+            "predicted_class": "O",
+            "confidence": 0.5798360705375671,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E_\\8.jpg",
+            "expected_class": "E_",
+            "predicted_class": "O",
+            "confidence": 0.35899817943573,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\E_\\9.jpg",
+            "expected_class": "E_",
+            "predicted_class": "O",
+            "confidence": 0.3742959797382355,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ga\\1.jpg",
+            "expected_class": "Ga",
+            "predicted_class": "T_ha",
+            "confidence": 0.16661836206912994,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ga\\10.jpg",
+            "expected_class": "Ga",
+            "predicted_class": "T_ha",
+            "confidence": 0.23254714906215668,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ga\\2.jpg",
+            "expected_class": "Ga",
+            "predicted_class": "T_ha",
+            "confidence": 0.13430307805538177,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ga\\3.jpg",
+            "expected_class": "Ga",
+            "predicted_class": "T_ha",
+            "confidence": 0.14945751428604126,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ga\\4.jpg",
+            "expected_class": "Ga",
+            "predicted_class": "T_ha",
+            "confidence": 0.18145403265953064,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ga\\5.jpg",
+            "expected_class": "Ga",
+            "predicted_class": "T_ha",
+            "confidence": 0.19889359176158905,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ga\\6.jpg",
+            "expected_class": "Ga",
+            "predicted_class": "T_ha",
+            "confidence": 0.18966686725616455,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ga\\7.jpg",
+            "expected_class": "Ga",
+            "predicted_class": "T_ha",
+            "confidence": 0.15542107820510864,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ga\\8.jpg",
+            "expected_class": "Ga",
+            "predicted_class": "T_ha",
+            "confidence": 0.17388513684272766,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ga\\9.jpg",
+            "expected_class": "Ga",
+            "predicted_class": "T_ha",
+            "confidence": 0.23254714906215668,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Gha\\1.jpg",
+            "expected_class": "Gha",
+            "predicted_class": "Gha",
+            "confidence": 0.5490127205848694,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Gha\\10.jpg",
+            "expected_class": "Gha",
+            "predicted_class": "Gha",
+            "confidence": 0.7024262547492981,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Gha\\2.jpg",
+            "expected_class": "Gha",
+            "predicted_class": "Gha",
+            "confidence": 0.5540465116500854,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Gha\\3.jpg",
+            "expected_class": "Gha",
+            "predicted_class": "Gha",
+            "confidence": 0.7338521480560303,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Gha\\4.jpg",
+            "expected_class": "Gha",
+            "predicted_class": "Gha",
+            "confidence": 0.5977481603622437,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Gha\\5.jpg",
+            "expected_class": "Gha",
+            "predicted_class": "Gha",
+            "confidence": 0.6845064759254456,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Gha\\6.jpg",
+            "expected_class": "Gha",
+            "predicted_class": "Gha",
+            "confidence": 0.7746591567993164,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Gha\\7.jpg",
+            "expected_class": "Gha",
+            "predicted_class": "Gha",
+            "confidence": 0.5024860501289368,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Gha\\8.jpg",
+            "expected_class": "Gha",
+            "predicted_class": "Gha",
+            "confidence": 0.7934343218803406,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Gha\\9.jpg",
+            "expected_class": "Gha",
+            "predicted_class": "Gha",
+            "confidence": 0.6298896074295044,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ha\\1.jpg",
+            "expected_class": "Ha",
+            "predicted_class": "Rha",
+            "confidence": 0.40962669253349304,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ha\\10.jpg",
+            "expected_class": "Ha",
+            "predicted_class": "Pha",
+            "confidence": 0.29159048199653625,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ha\\2.jpg",
+            "expected_class": "Ha",
+            "predicted_class": "Rha",
+            "confidence": 0.48004060983657837,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ha\\3.jpg",
+            "expected_class": "Ha",
+            "predicted_class": "E",
+            "confidence": 0.21143002808094025,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ha\\4.jpg",
+            "expected_class": "Ha",
+            "predicted_class": "Pha",
+            "confidence": 0.24293141067028046,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ha\\5.jpg",
+            "expected_class": "Ha",
+            "predicted_class": "Rha",
+            "confidence": 0.2400139421224594,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ha\\6.jpg",
+            "expected_class": "Ha",
+            "predicted_class": "Rha",
+            "confidence": 0.23392000794410706,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ha\\7.jpg",
+            "expected_class": "Ha",
+            "predicted_class": "Rha",
+            "confidence": 0.30527597665786743,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ha\\8.jpg",
+            "expected_class": "Ha",
+            "predicted_class": "E",
+            "confidence": 0.16912402212619781,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ha\\9.jpg",
+            "expected_class": "Ha",
+            "predicted_class": "Rha",
+            "confidence": 0.19900928437709808,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\I\\1.jpg",
+            "expected_class": "I",
+            "predicted_class": "Nothing",
+            "confidence": 0.4927760064601898,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\I\\10.jpg",
+            "expected_class": "I",
+            "predicted_class": "Nothing",
+            "confidence": 0.26172566413879395,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\I\\2.jpg",
+            "expected_class": "I",
+            "predicted_class": "Ta",
+            "confidence": 0.37853533029556274,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\I\\3.jpg",
+            "expected_class": "I",
+            "predicted_class": "Nothing",
+            "confidence": 0.29437997937202454,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\I\\4.jpg",
+            "expected_class": "I",
+            "predicted_class": "Nothing",
+            "confidence": 0.3769376873970032,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\I\\5.jpg",
+            "expected_class": "I",
+            "predicted_class": "Nothing",
+            "confidence": 0.38654467463493347,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\I\\6.jpg",
+            "expected_class": "I",
+            "predicted_class": "Ta",
+            "confidence": 0.36192262172698975,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\I\\7.jpg",
+            "expected_class": "I",
+            "predicted_class": "Ta",
+            "confidence": 0.3243867754936218,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\I\\8.jpg",
+            "expected_class": "I",
+            "predicted_class": "Nothing",
+            "confidence": 0.2667897045612335,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\I\\9.jpg",
+            "expected_class": "I",
+            "predicted_class": "Nothing",
+            "confidence": 0.32513782382011414,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ii\\1.jpg",
+            "expected_class": "Ii",
+            "predicted_class": "Shha",
+            "confidence": 0.3179677128791809,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ii\\10.jpg",
+            "expected_class": "Ii",
+            "predicted_class": "D_a",
+            "confidence": 0.31624603271484375,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ii\\2.jpg",
+            "expected_class": "Ii",
+            "predicted_class": "Nothing",
+            "confidence": 0.4770815670490265,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ii\\3.jpg",
+            "expected_class": "Ii",
+            "predicted_class": "Shha",
+            "confidence": 0.3894060254096985,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ii\\4.jpg",
+            "expected_class": "Ii",
+            "predicted_class": "Shha",
+            "confidence": 0.27651071548461914,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ii\\5.jpg",
+            "expected_class": "Ii",
+            "predicted_class": "Shha",
+            "confidence": 0.2295452207326889,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ii\\6.jpg",
+            "expected_class": "Ii",
+            "predicted_class": "Shha",
+            "confidence": 0.2375400960445404,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ii\\7.jpg",
+            "expected_class": "Ii",
+            "predicted_class": "Shha",
+            "confidence": 0.28088003396987915,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ii\\8.jpg",
+            "expected_class": "Ii",
+            "predicted_class": "Shha",
+            "confidence": 0.32639044523239136,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ii\\9.jpg",
+            "expected_class": "Ii",
+            "predicted_class": "Shha",
+            "confidence": 0.2597026824951172,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ilh\\1.jpg",
+            "expected_class": "Ilh",
+            "predicted_class": "Gha",
+            "confidence": 0.4836793541908264,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ilh\\10.jpg",
+            "expected_class": "Ilh",
+            "predicted_class": "Gha",
+            "confidence": 0.3678686022758484,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ilh\\2.jpg",
+            "expected_class": "Ilh",
+            "predicted_class": "Gha",
+            "confidence": 0.42496755719184875,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ilh\\3.jpg",
+            "expected_class": "Ilh",
+            "predicted_class": "Gha",
+            "confidence": 0.31865033507347107,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ilh\\4.jpg",
+            "expected_class": "Ilh",
+            "predicted_class": "Gha",
+            "confidence": 0.2577970325946808,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ilh\\5.jpg",
+            "expected_class": "Ilh",
+            "predicted_class": "Gha",
+            "confidence": 0.24839922785758972,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ilh\\6.jpg",
+            "expected_class": "Ilh",
+            "predicted_class": "Nothing",
+            "confidence": 0.28391870856285095,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ilh\\7.jpg",
+            "expected_class": "Ilh",
+            "predicted_class": "Gha",
+            "confidence": 0.34636807441711426,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ilh\\8.jpg",
+            "expected_class": "Ilh",
+            "predicted_class": "Gha",
+            "confidence": 0.4587674140930176,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ilh\\9.jpg",
+            "expected_class": "Ilh",
+            "predicted_class": "Gha",
+            "confidence": 0.5044577717781067,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ill\\1.jpg",
+            "expected_class": "Ill",
+            "predicted_class": "Nothing",
+            "confidence": 0.9630900621414185,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ill\\10.jpg",
+            "expected_class": "Ill",
+            "predicted_class": "Nothing",
+            "confidence": 0.9472516775131226,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ill\\2.jpg",
+            "expected_class": "Ill",
+            "predicted_class": "Nothing",
+            "confidence": 0.8941366672515869,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ill\\3.jpg",
+            "expected_class": "Ill",
+            "predicted_class": "Nothing",
+            "confidence": 0.9761508703231812,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ill\\4.jpg",
+            "expected_class": "Ill",
+            "predicted_class": "Nothing",
+            "confidence": 0.9341685175895691,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ill\\5.jpg",
+            "expected_class": "Ill",
+            "predicted_class": "Nothing",
+            "confidence": 0.9819579124450684,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ill\\6.jpg",
+            "expected_class": "Ill",
+            "predicted_class": "Nothing",
+            "confidence": 0.9802040457725525,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ill\\7.jpg",
+            "expected_class": "Ill",
+            "predicted_class": "Nothing",
+            "confidence": 0.9201297760009766,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ill\\8.jpg",
+            "expected_class": "Ill",
+            "predicted_class": "Nothing",
+            "confidence": 0.9625218510627747,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ill\\9.jpg",
+            "expected_class": "Ill",
+            "predicted_class": "Nothing",
+            "confidence": 0.9377632141113281,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\In\\1.jpg",
+            "expected_class": "In",
+            "predicted_class": "T_ha",
+            "confidence": 0.28158143162727356,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\In\\10.jpg",
+            "expected_class": "In",
+            "predicted_class": "T_ha",
+            "confidence": 0.3588283956050873,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\In\\2.jpg",
+            "expected_class": "In",
+            "predicted_class": "T_ha",
+            "confidence": 0.142365500330925,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\In\\3.jpg",
+            "expected_class": "In",
+            "predicted_class": "T_ha",
+            "confidence": 0.10840019583702087,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\In\\4.jpg",
+            "expected_class": "In",
+            "predicted_class": "T_ha",
+            "confidence": 0.19428950548171997,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\In\\5.jpg",
+            "expected_class": "In",
+            "predicted_class": "T_ha",
+            "confidence": 0.4170357882976532,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\In\\6.jpg",
+            "expected_class": "In",
+            "predicted_class": "T_ha",
+            "confidence": 0.16881106793880463,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\In\\7.jpg",
+            "expected_class": "In",
+            "predicted_class": "T_ha",
+            "confidence": 0.212958425283432,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\In\\8.jpg",
+            "expected_class": "In",
+            "predicted_class": "T_ha",
+            "confidence": 0.3575916588306427,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\In\\9.jpg",
+            "expected_class": "In",
+            "predicted_class": "T_ha",
+            "confidence": 0.3207366168498993,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Irr\\1.jpg",
+            "expected_class": "Irr",
+            "predicted_class": "Irr",
+            "confidence": 0.7935649752616882,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Irr\\10.jpg",
+            "expected_class": "Irr",
+            "predicted_class": "Irr",
+            "confidence": 0.9346246719360352,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Irr\\2.jpg",
+            "expected_class": "Irr",
+            "predicted_class": "Irr",
+            "confidence": 0.4906207025051117,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Irr\\3.jpg",
+            "expected_class": "Irr",
+            "predicted_class": "Irr",
+            "confidence": 0.6254860162734985,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Irr\\4.jpg",
+            "expected_class": "Irr",
+            "predicted_class": "Irr",
+            "confidence": 0.7497086524963379,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Irr\\5.jpg",
+            "expected_class": "Irr",
+            "predicted_class": "Irr",
+            "confidence": 0.6609599590301514,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Irr\\6.jpg",
+            "expected_class": "Irr",
+            "predicted_class": "Irr",
+            "confidence": 0.8669590353965759,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Irr\\7.jpg",
+            "expected_class": "Irr",
+            "predicted_class": "Irr",
+            "confidence": 0.9025006294250488,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Irr\\8.jpg",
+            "expected_class": "Irr",
+            "predicted_class": "Irr",
+            "confidence": 0.8776100277900696,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Irr\\9.jpg",
+            "expected_class": "Irr",
+            "predicted_class": "Irr",
+            "confidence": 0.953175961971283,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ja\\1.jpg",
+            "expected_class": "Ja",
+            "predicted_class": "Ee_",
+            "confidence": 0.2594519555568695,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ja\\10.jpg",
+            "expected_class": "Ja",
+            "predicted_class": "Ee",
+            "confidence": 0.20849351584911346,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ja\\2.jpg",
+            "expected_class": "Ja",
+            "predicted_class": "Ee",
+            "confidence": 0.32247236371040344,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ja\\3.jpg",
+            "expected_class": "Ja",
+            "predicted_class": "Ee",
+            "confidence": 0.1681385338306427,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ja\\4.jpg",
+            "expected_class": "Ja",
+            "predicted_class": "Ee_",
+            "confidence": 0.2689836621284485,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ja\\5.jpg",
+            "expected_class": "Ja",
+            "predicted_class": "Ee",
+            "confidence": 0.3480677306652069,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ja\\6.jpg",
+            "expected_class": "Ja",
+            "predicted_class": "Ee",
+            "confidence": 0.25021567940711975,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ja\\7.jpg",
+            "expected_class": "Ja",
+            "predicted_class": "Ee",
+            "confidence": 0.4093250632286072,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ja\\8.jpg",
+            "expected_class": "Ja",
+            "predicted_class": "Ee_",
+            "confidence": 0.25133654475212097,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ja\\9.jpg",
+            "expected_class": "Ja",
+            "predicted_class": "Ee_",
+            "confidence": 0.3637133538722992,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ka\\1.jpg",
+            "expected_class": "Ka",
+            "predicted_class": "Pha",
+            "confidence": 0.36224308609962463,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ka\\10.jpg",
+            "expected_class": "Ka",
+            "predicted_class": "Pha",
+            "confidence": 0.23304158449172974,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ka\\2.jpg",
+            "expected_class": "Ka",
+            "predicted_class": "Ga",
+            "confidence": 0.683607280254364,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ka\\3.jpg",
+            "expected_class": "Ka",
+            "predicted_class": "Rha",
+            "confidence": 0.25663045048713684,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ka\\4.jpg",
+            "expected_class": "Ka",
+            "predicted_class": "Pha",
+            "confidence": 0.3610008955001831,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ka\\5.jpg",
+            "expected_class": "Ka",
+            "predicted_class": "Pha",
+            "confidence": 0.3407738208770752,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ka\\6.jpg",
+            "expected_class": "Ka",
+            "predicted_class": "Ga",
+            "confidence": 0.5792363286018372,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ka\\7.jpg",
+            "expected_class": "Ka",
+            "predicted_class": "Ga",
+            "confidence": 0.39947691559791565,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ka\\8.jpg",
+            "expected_class": "Ka",
+            "predicted_class": "Ga",
+            "confidence": 0.4197080731391907,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ka\\9.jpg",
+            "expected_class": "Ka",
+            "predicted_class": "Pha",
+            "confidence": 0.314753919839859,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Kha\\1.jpg",
+            "expected_class": "Kha",
+            "predicted_class": "Pa",
+            "confidence": 0.2605963945388794,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Kha\\10.jpg",
+            "expected_class": "Kha",
+            "predicted_class": "Pa",
+            "confidence": 0.2613011300563812,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Kha\\2.jpg",
+            "expected_class": "Kha",
+            "predicted_class": "Nothing",
+            "confidence": 0.17935772240161896,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Kha\\3.jpg",
+            "expected_class": "Kha",
+            "predicted_class": "Nothing",
+            "confidence": 0.18134281039237976,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Kha\\4.jpg",
+            "expected_class": "Kha",
+            "predicted_class": "Pa",
+            "confidence": 0.34583476185798645,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Kha\\5.jpg",
+            "expected_class": "Kha",
+            "predicted_class": "Pa",
+            "confidence": 0.33051466941833496,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Kha\\6.jpg",
+            "expected_class": "Kha",
+            "predicted_class": "Pa",
+            "confidence": 0.4455103874206543,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Kha\\7.jpg",
+            "expected_class": "Kha",
+            "predicted_class": "Pa",
+            "confidence": 0.34106937050819397,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Kha\\8.jpg",
+            "expected_class": "Kha",
+            "predicted_class": "Pa",
+            "confidence": 0.34791654348373413,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Kha\\9.jpg",
+            "expected_class": "Kha",
+            "predicted_class": "Pa",
+            "confidence": 0.49620431661605835,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\La\\1.jpg",
+            "expected_class": "La",
+            "predicted_class": "Pa",
+            "confidence": 0.32176756858825684,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\La\\10.jpg",
+            "expected_class": "La",
+            "predicted_class": "La",
+            "confidence": 0.3763349652290344,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\La\\2.jpg",
+            "expected_class": "La",
+            "predicted_class": "Au",
+            "confidence": 0.4083137810230255,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\La\\3.jpg",
+            "expected_class": "La",
+            "predicted_class": "Pa",
+            "confidence": 0.4701065719127655,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\La\\4.jpg",
+            "expected_class": "La",
+            "predicted_class": "La",
+            "confidence": 0.3400462567806244,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\La\\5.jpg",
+            "expected_class": "La",
+            "predicted_class": "La",
+            "confidence": 0.384015291929245,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\La\\6.jpg",
+            "expected_class": "La",
+            "predicted_class": "Pa",
+            "confidence": 0.5412033200263977,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\La\\7.jpg",
+            "expected_class": "La",
+            "predicted_class": "Pa",
+            "confidence": 0.5000008940696716,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\La\\8.jpg",
+            "expected_class": "La",
+            "predicted_class": "Pa",
+            "confidence": 0.4509671628475189,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\La\\9.jpg",
+            "expected_class": "La",
+            "predicted_class": "Pa",
+            "confidence": 0.49513301253318787,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Lha\\1.jpg",
+            "expected_class": "Lha",
+            "predicted_class": "A",
+            "confidence": 0.867482602596283,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Lha\\10.jpg",
+            "expected_class": "Lha",
+            "predicted_class": "A",
+            "confidence": 0.7600789070129395,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Lha\\2.jpg",
+            "expected_class": "Lha",
+            "predicted_class": "A",
+            "confidence": 0.7945590019226074,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Lha\\3.jpg",
+            "expected_class": "Lha",
+            "predicted_class": "A",
+            "confidence": 0.8202976584434509,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Lha\\4.jpg",
+            "expected_class": "Lha",
+            "predicted_class": "A",
+            "confidence": 0.8235365152359009,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Lha\\5.jpg",
+            "expected_class": "Lha",
+            "predicted_class": "A",
+            "confidence": 0.910245954990387,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Lha\\6.jpg",
+            "expected_class": "Lha",
+            "predicted_class": "A",
+            "confidence": 0.8072521686553955,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Lha\\7.jpg",
+            "expected_class": "Lha",
+            "predicted_class": "A",
+            "confidence": 0.8376768231391907,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Lha\\8.jpg",
+            "expected_class": "Lha",
+            "predicted_class": "A",
+            "confidence": 0.8472062945365906,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Lha\\9.jpg",
+            "expected_class": "Lha",
+            "predicted_class": "A",
+            "confidence": 0.8126564621925354,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ma\\1.jpg",
+            "expected_class": "Ma",
+            "predicted_class": "Ee",
+            "confidence": 0.1740894913673401,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ma\\10.jpg",
+            "expected_class": "Ma",
+            "predicted_class": "Ma",
+            "confidence": 0.21233928203582764,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ma\\2.jpg",
+            "expected_class": "Ma",
+            "predicted_class": "Nothing",
+            "confidence": 0.23949386179447174,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ma\\3.jpg",
+            "expected_class": "Ma",
+            "predicted_class": "Ma",
+            "confidence": 0.19690366089344025,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ma\\4.jpg",
+            "expected_class": "Ma",
+            "predicted_class": "Ma",
+            "confidence": 0.24849598109722137,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ma\\5.jpg",
+            "expected_class": "Ma",
+            "predicted_class": "Ra",
+            "confidence": 0.23141278326511383,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ma\\6.jpg",
+            "expected_class": "Ma",
+            "predicted_class": "Ma",
+            "confidence": 0.25469207763671875,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ma\\7.jpg",
+            "expected_class": "Ma",
+            "predicted_class": "Ma",
+            "confidence": 0.1735515296459198,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ma\\8.jpg",
+            "expected_class": "Ma",
+            "predicted_class": "Ma",
+            "confidence": 0.4411110579967499,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ma\\9.jpg",
+            "expected_class": "Ma",
+            "predicted_class": "Ma",
+            "confidence": 0.23139424622058868,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Na\\1.jpg",
+            "expected_class": "Na",
+            "predicted_class": "N_a",
+            "confidence": 0.902662992477417,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Na\\10.jpg",
+            "expected_class": "Na",
+            "predicted_class": "N_a",
+            "confidence": 0.4995603859424591,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Na\\2.jpg",
+            "expected_class": "Na",
+            "predicted_class": "N_a",
+            "confidence": 0.6285359263420105,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Na\\3.jpg",
+            "expected_class": "Na",
+            "predicted_class": "N_a",
+            "confidence": 0.41828063130378723,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Na\\4.jpg",
+            "expected_class": "Na",
+            "predicted_class": "N_a",
+            "confidence": 0.4560115933418274,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Na\\5.jpg",
+            "expected_class": "Na",
+            "predicted_class": "N_a",
+            "confidence": 0.4217603802680969,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Na\\6.jpg",
+            "expected_class": "Na",
+            "predicted_class": "N_a",
+            "confidence": 0.4713417589664459,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Na\\7.jpg",
+            "expected_class": "Na",
+            "predicted_class": "N_a",
+            "confidence": 0.737892210483551,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Na\\8.jpg",
+            "expected_class": "Na",
+            "predicted_class": "N_a",
+            "confidence": 0.6844521164894104,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Na\\9.jpg",
+            "expected_class": "Na",
+            "predicted_class": "N_a",
+            "confidence": 0.8490725159645081,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nga\\1.jpg",
+            "expected_class": "Nga",
+            "predicted_class": "Shha",
+            "confidence": 0.4248441159725189,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nga\\10.jpg",
+            "expected_class": "Nga",
+            "predicted_class": "A",
+            "confidence": 0.5496985912322998,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nga\\2.jpg",
+            "expected_class": "Nga",
+            "predicted_class": "A",
+            "confidence": 0.40398797392845154,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nga\\3.jpg",
+            "expected_class": "Nga",
+            "predicted_class": "A",
+            "confidence": 0.4496318995952606,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nga\\4.jpg",
+            "expected_class": "Nga",
+            "predicted_class": "A",
+            "confidence": 0.6665257811546326,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nga\\5.jpg",
+            "expected_class": "Nga",
+            "predicted_class": "A",
+            "confidence": 0.5701785683631897,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nga\\6.jpg",
+            "expected_class": "Nga",
+            "predicted_class": "A",
+            "confidence": 0.7145878672599792,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nga\\7.jpg",
+            "expected_class": "Nga",
+            "predicted_class": "A",
+            "confidence": 0.5971375703811646,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nga\\8.jpg",
+            "expected_class": "Nga",
+            "predicted_class": "Shha",
+            "confidence": 0.7409743070602417,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nga\\9.jpg",
+            "expected_class": "Nga",
+            "predicted_class": "A",
+            "confidence": 0.5253201127052307,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nha\\1.jpg",
+            "expected_class": "Nha",
+            "predicted_class": "Shha",
+            "confidence": 0.18359124660491943,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nha\\10.jpg",
+            "expected_class": "Nha",
+            "predicted_class": "Nha",
+            "confidence": 0.23176886141300201,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nha\\2.jpg",
+            "expected_class": "Nha",
+            "predicted_class": "Sha",
+            "confidence": 0.22606311738491058,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nha\\3.jpg",
+            "expected_class": "Nha",
+            "predicted_class": "Shha",
+            "confidence": 0.2032276690006256,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nha\\4.jpg",
+            "expected_class": "Nha",
+            "predicted_class": "Shha",
+            "confidence": 0.30255013704299927,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nha\\5.jpg",
+            "expected_class": "Nha",
+            "predicted_class": "Shha",
+            "confidence": 0.37301105260849,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nha\\6.jpg",
+            "expected_class": "Nha",
+            "predicted_class": "Shha",
+            "confidence": 0.3767944276332855,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nha\\7.jpg",
+            "expected_class": "Nha",
+            "predicted_class": "Gha",
+            "confidence": 0.1766134351491928,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nha\\8.jpg",
+            "expected_class": "Nha",
+            "predicted_class": "Shha",
+            "confidence": 0.3908831477165222,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Nha\\9.jpg",
+            "expected_class": "Nha",
+            "predicted_class": "Nha",
+            "confidence": 0.21953941881656647,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nothing\\1.jpg",
+            "expected_class": "Nothing",
+            "predicted_class": "Nothing",
+            "confidence": 0.9975117444992065,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nothing\\10.jpg",
+            "expected_class": "Nothing",
+            "predicted_class": "Nothing",
+            "confidence": 0.9999003410339355,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nothing\\2.jpg",
+            "expected_class": "Nothing",
+            "predicted_class": "Nothing",
+            "confidence": 0.9992597699165344,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nothing\\3.jpg",
+            "expected_class": "Nothing",
+            "predicted_class": "Nothing",
+            "confidence": 0.9985412359237671,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nothing\\4.jpg",
+            "expected_class": "Nothing",
+            "predicted_class": "Nothing",
+            "confidence": 0.9997993111610413,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nothing\\5.jpg",
+            "expected_class": "Nothing",
+            "predicted_class": "Nothing",
+            "confidence": 0.9995561242103577,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nothing\\6.jpg",
+            "expected_class": "Nothing",
+            "predicted_class": "Nothing",
+            "confidence": 0.999678373336792,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nothing\\7.jpg",
+            "expected_class": "Nothing",
+            "predicted_class": "Nothing",
+            "confidence": 0.9998408555984497,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nothing\\8.jpg",
+            "expected_class": "Nothing",
+            "predicted_class": "Nothing",
+            "confidence": 0.9998615980148315,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Nothing\\9.jpg",
+            "expected_class": "Nothing",
+            "predicted_class": "Nothing",
+            "confidence": 0.9988399147987366,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\N_a\\1.jpg",
+            "expected_class": "N_a",
+            "predicted_class": "N_a",
+            "confidence": 0.9277584552764893,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\N_a\\10.jpg",
+            "expected_class": "N_a",
+            "predicted_class": "N_a",
+            "confidence": 0.30670005083084106,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\N_a\\2.jpg",
+            "expected_class": "N_a",
+            "predicted_class": "N_a",
+            "confidence": 0.8523270487785339,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\N_a\\3.jpg",
+            "expected_class": "N_a",
+            "predicted_class": "N_a",
+            "confidence": 0.3605310916900635,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\N_a\\4.jpg",
+            "expected_class": "N_a",
+            "predicted_class": "Shha",
+            "confidence": 0.5184568762779236,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\N_a\\5.jpg",
+            "expected_class": "N_a",
+            "predicted_class": "N_a",
+            "confidence": 0.8131174445152283,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\N_a\\6.jpg",
+            "expected_class": "N_a",
+            "predicted_class": "N_a",
+            "confidence": 0.4261484146118164,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\N_a\\7.jpg",
+            "expected_class": "N_a",
+            "predicted_class": "Shha",
+            "confidence": 0.27977386116981506,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\N_a\\8.jpg",
+            "expected_class": "N_a",
+            "predicted_class": "Na",
+            "confidence": 0.27315327525138855,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\N_a\\9.jpg",
+            "expected_class": "N_a",
+            "predicted_class": "Shha",
+            "confidence": 0.3003550171852112,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\O\\1.jpg",
+            "expected_class": "O",
+            "predicted_class": "O",
+            "confidence": 0.8159674406051636,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\O\\10.jpg",
+            "expected_class": "O",
+            "predicted_class": "O",
+            "confidence": 0.8741855621337891,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\O\\2.jpg",
+            "expected_class": "O",
+            "predicted_class": "O",
+            "confidence": 0.7984721064567566,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\O\\3.jpg",
+            "expected_class": "O",
+            "predicted_class": "O",
+            "confidence": 0.8096507787704468,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\O\\4.jpg",
+            "expected_class": "O",
+            "predicted_class": "O",
+            "confidence": 0.8649131059646606,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\O\\5.jpg",
+            "expected_class": "O",
+            "predicted_class": "O",
+            "confidence": 0.7546635270118713,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\O\\6.jpg",
+            "expected_class": "O",
+            "predicted_class": "O",
+            "confidence": 0.5755276083946228,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\O\\7.jpg",
+            "expected_class": "O",
+            "predicted_class": "Au",
+            "confidence": 0.4242340326309204,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\O\\8.jpg",
+            "expected_class": "O",
+            "predicted_class": "O",
+            "confidence": 0.6763297319412231,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\O\\9.jpg",
+            "expected_class": "O",
+            "predicted_class": "O",
+            "confidence": 0.5555933117866516,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Oo\\1.jpg",
+            "expected_class": "Oo",
+            "predicted_class": "U",
+            "confidence": 0.27592337131500244,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Oo\\10.jpg",
+            "expected_class": "Oo",
+            "predicted_class": "Rha",
+            "confidence": 0.5845094919204712,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Oo\\2.jpg",
+            "expected_class": "Oo",
+            "predicted_class": "Rha",
+            "confidence": 0.2831471860408783,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Oo\\3.jpg",
+            "expected_class": "Oo",
+            "predicted_class": "Rha",
+            "confidence": 0.26298633217811584,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Oo\\4.jpg",
+            "expected_class": "Oo",
+            "predicted_class": "Rha",
+            "confidence": 0.30703824758529663,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Oo\\5.jpg",
+            "expected_class": "Oo",
+            "predicted_class": "Rha",
+            "confidence": 0.32147425413131714,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Oo\\6.jpg",
+            "expected_class": "Oo",
+            "predicted_class": "Pha",
+            "confidence": 0.31534379720687866,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Oo\\7.jpg",
+            "expected_class": "Oo",
+            "predicted_class": "U",
+            "confidence": 0.35684141516685486,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Oo\\8.jpg",
+            "expected_class": "Oo",
+            "predicted_class": "Rha",
+            "confidence": 0.48239317536354065,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Oo\\9.jpg",
+            "expected_class": "Oo",
+            "predicted_class": "Rha",
+            "confidence": 0.5489374399185181,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Pa\\1.jpg",
+            "expected_class": "Pa",
+            "predicted_class": "Pa",
+            "confidence": 0.9389635324478149,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pa\\10.jpg",
+            "expected_class": "Pa",
+            "predicted_class": "Pa",
+            "confidence": 0.909462571144104,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pa\\2.jpg",
+            "expected_class": "Pa",
+            "predicted_class": "Pa",
+            "confidence": 0.9465327858924866,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pa\\3.jpg",
+            "expected_class": "Pa",
+            "predicted_class": "Pa",
+            "confidence": 0.9641374349594116,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pa\\4.jpg",
+            "expected_class": "Pa",
+            "predicted_class": "Pa",
+            "confidence": 0.9456480145454407,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pa\\5.jpg",
+            "expected_class": "Pa",
+            "predicted_class": "Pa",
+            "confidence": 0.9828793406486511,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pa\\6.jpg",
+            "expected_class": "Pa",
+            "predicted_class": "Pa",
+            "confidence": 0.9566128849983215,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pa\\7.jpg",
+            "expected_class": "Pa",
+            "predicted_class": "Pa",
+            "confidence": 0.9503552317619324,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pa\\8.jpg",
+            "expected_class": "Pa",
+            "predicted_class": "Pa",
+            "confidence": 0.8228877186775208,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pa\\9.jpg",
+            "expected_class": "Pa",
+            "predicted_class": "Pa",
+            "confidence": 0.8725890517234802,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pha\\1.jpg",
+            "expected_class": "Pha",
+            "predicted_class": "Pa",
+            "confidence": 0.5507988333702087,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Pha\\10.jpg",
+            "expected_class": "Pha",
+            "predicted_class": "Pa",
+            "confidence": 0.6549210548400879,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Pha\\2.jpg",
+            "expected_class": "Pha",
+            "predicted_class": "Pa",
+            "confidence": 0.6303492188453674,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Pha\\3.jpg",
+            "expected_class": "Pha",
+            "predicted_class": "Pa",
+            "confidence": 0.5625407099723816,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Pha\\4.jpg",
+            "expected_class": "Pha",
+            "predicted_class": "Pa",
+            "confidence": 0.7621228098869324,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Pha\\5.jpg",
+            "expected_class": "Pha",
+            "predicted_class": "Pa",
+            "confidence": 0.6307798624038696,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Pha\\6.jpg",
+            "expected_class": "Pha",
+            "predicted_class": "Pa",
+            "confidence": 0.5676761865615845,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Pha\\7.jpg",
+            "expected_class": "Pha",
+            "predicted_class": "Pha",
+            "confidence": 0.549734890460968,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pha\\8.jpg",
+            "expected_class": "Pha",
+            "predicted_class": "Pha",
+            "confidence": 0.4934579133987427,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Pha\\9.jpg",
+            "expected_class": "Pha",
+            "predicted_class": "Pha",
+            "confidence": 0.43374350666999817,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\R\\1.jpg",
+            "expected_class": "R",
+            "predicted_class": "Ee",
+            "confidence": 0.7597869038581848,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\R\\10.jpg",
+            "expected_class": "R",
+            "predicted_class": "Ee",
+            "confidence": 0.617504358291626,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\R\\2.jpg",
+            "expected_class": "R",
+            "predicted_class": "Ee",
+            "confidence": 0.8936330676078796,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\R\\3.jpg",
+            "expected_class": "R",
+            "predicted_class": "Ee",
+            "confidence": 0.8890605568885803,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\R\\4.jpg",
+            "expected_class": "R",
+            "predicted_class": "Ee",
+            "confidence": 0.4509623646736145,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\R\\5.jpg",
+            "expected_class": "R",
+            "predicted_class": "Ee",
+            "confidence": 0.8781914114952087,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\R\\6.jpg",
+            "expected_class": "R",
+            "predicted_class": "Ee",
+            "confidence": 0.8528583645820618,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\R\\7.jpg",
+            "expected_class": "R",
+            "predicted_class": "Ee",
+            "confidence": 0.6986643075942993,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\R\\8.jpg",
+            "expected_class": "R",
+            "predicted_class": "Ee",
+            "confidence": 0.7486228346824646,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\R\\9.jpg",
+            "expected_class": "R",
+            "predicted_class": "Ee",
+            "confidence": 0.8792888522148132,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ra\\1.jpg",
+            "expected_class": "Ra",
+            "predicted_class": "Ra",
+            "confidence": 0.976885974407196,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ra\\10.jpg",
+            "expected_class": "Ra",
+            "predicted_class": "Ra",
+            "confidence": 0.989445149898529,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ra\\2.jpg",
+            "expected_class": "Ra",
+            "predicted_class": "Ra",
+            "confidence": 0.9742921590805054,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ra\\3.jpg",
+            "expected_class": "Ra",
+            "predicted_class": "Ra",
+            "confidence": 0.9671699404716492,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ra\\4.jpg",
+            "expected_class": "Ra",
+            "predicted_class": "Ra",
+            "confidence": 0.9788176417350769,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ra\\5.jpg",
+            "expected_class": "Ra",
+            "predicted_class": "Ra",
+            "confidence": 0.9738867878913879,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ra\\6.jpg",
+            "expected_class": "Ra",
+            "predicted_class": "Ra",
+            "confidence": 0.9543537497520447,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ra\\7.jpg",
+            "expected_class": "Ra",
+            "predicted_class": "Ra",
+            "confidence": 0.9805194735527039,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ra\\8.jpg",
+            "expected_class": "Ra",
+            "predicted_class": "Ra",
+            "confidence": 0.988342821598053,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ra\\9.jpg",
+            "expected_class": "Ra",
+            "predicted_class": "Ra",
+            "confidence": 0.9893156290054321,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Rha\\1.jpg",
+            "expected_class": "Rha",
+            "predicted_class": "Rha",
+            "confidence": 0.9991369843482971,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Rha\\10.jpg",
+            "expected_class": "Rha",
+            "predicted_class": "Rha",
+            "confidence": 0.9960440397262573,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Rha\\2.jpg",
+            "expected_class": "Rha",
+            "predicted_class": "Rha",
+            "confidence": 0.9990264177322388,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Rha\\3.jpg",
+            "expected_class": "Rha",
+            "predicted_class": "Rha",
+            "confidence": 0.9990980625152588,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Rha\\4.jpg",
+            "expected_class": "Rha",
+            "predicted_class": "Rha",
+            "confidence": 0.9993247985839844,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Rha\\5.jpg",
+            "expected_class": "Rha",
+            "predicted_class": "Rha",
+            "confidence": 0.9973347187042236,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Rha\\6.jpg",
+            "expected_class": "Rha",
+            "predicted_class": "Rha",
+            "confidence": 0.9959259033203125,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Rha\\7.jpg",
+            "expected_class": "Rha",
+            "predicted_class": "Rha",
+            "confidence": 0.9979773163795471,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Rha\\8.jpg",
+            "expected_class": "Rha",
+            "predicted_class": "Rha",
+            "confidence": 0.9992419481277466,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Rha\\9.jpg",
+            "expected_class": "Rha",
+            "predicted_class": "Rha",
+            "confidence": 0.9976211190223694,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Sa\\1.jpg",
+            "expected_class": "Sa",
+            "predicted_class": "Shha",
+            "confidence": 0.17371761798858643,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sa\\10.jpg",
+            "expected_class": "Sa",
+            "predicted_class": "Pha",
+            "confidence": 0.24776794016361237,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sa\\2.jpg",
+            "expected_class": "Sa",
+            "predicted_class": "Pha",
+            "confidence": 0.259712815284729,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sa\\3.jpg",
+            "expected_class": "Sa",
+            "predicted_class": "Pha",
+            "confidence": 0.28895047307014465,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sa\\4.jpg",
+            "expected_class": "Sa",
+            "predicted_class": "Pha",
+            "confidence": 0.2411237359046936,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sa\\5.jpg",
+            "expected_class": "Sa",
+            "predicted_class": "Pha",
+            "confidence": 0.3084631562232971,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sa\\6.jpg",
+            "expected_class": "Sa",
+            "predicted_class": "Pha",
+            "confidence": 0.2979471683502197,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sa\\7.jpg",
+            "expected_class": "Sa",
+            "predicted_class": "Pha",
+            "confidence": 0.24406224489212036,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sa\\8.jpg",
+            "expected_class": "Sa",
+            "predicted_class": "Pha",
+            "confidence": 0.25555235147476196,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sa\\9.jpg",
+            "expected_class": "Sa",
+            "predicted_class": "Pha",
+            "confidence": 0.2423328012228012,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sha\\1.jpg",
+            "expected_class": "Sha",
+            "predicted_class": "Shha",
+            "confidence": 0.7083851099014282,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sha\\10.jpg",
+            "expected_class": "Sha",
+            "predicted_class": "Shha",
+            "confidence": 0.6054774522781372,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sha\\2.jpg",
+            "expected_class": "Sha",
+            "predicted_class": "Shha",
+            "confidence": 0.7104469537734985,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sha\\3.jpg",
+            "expected_class": "Sha",
+            "predicted_class": "Shha",
+            "confidence": 0.5959063172340393,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sha\\4.jpg",
+            "expected_class": "Sha",
+            "predicted_class": "Shha",
+            "confidence": 0.5343103408813477,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sha\\5.jpg",
+            "expected_class": "Sha",
+            "predicted_class": "Shha",
+            "confidence": 0.7434297204017639,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sha\\6.jpg",
+            "expected_class": "Sha",
+            "predicted_class": "Shha",
+            "confidence": 0.671999990940094,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sha\\7.jpg",
+            "expected_class": "Sha",
+            "predicted_class": "Shha",
+            "confidence": 0.8319868445396423,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sha\\8.jpg",
+            "expected_class": "Sha",
+            "predicted_class": "Shha",
+            "confidence": 0.5310695767402649,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Sha\\9.jpg",
+            "expected_class": "Sha",
+            "predicted_class": "Shha",
+            "confidence": 0.6239862442016602,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Shha\\1.jpg",
+            "expected_class": "Shha",
+            "predicted_class": "Shha",
+            "confidence": 0.854925811290741,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Shha\\10.jpg",
+            "expected_class": "Shha",
+            "predicted_class": "Shha",
+            "confidence": 0.6949700713157654,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Shha\\2.jpg",
+            "expected_class": "Shha",
+            "predicted_class": "Shha",
+            "confidence": 0.6749085187911987,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Shha\\3.jpg",
+            "expected_class": "Shha",
+            "predicted_class": "Shha",
+            "confidence": 0.6337389945983887,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Shha\\4.jpg",
+            "expected_class": "Shha",
+            "predicted_class": "Shha",
+            "confidence": 0.7438464164733887,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Shha\\5.jpg",
+            "expected_class": "Shha",
+            "predicted_class": "Shha",
+            "confidence": 0.8432223796844482,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Shha\\6.jpg",
+            "expected_class": "Shha",
+            "predicted_class": "Shha",
+            "confidence": 0.6865893006324768,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Shha\\7.jpg",
+            "expected_class": "Shha",
+            "predicted_class": "Shha",
+            "confidence": 0.7655835151672363,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Shha\\8.jpg",
+            "expected_class": "Shha",
+            "predicted_class": "Shha",
+            "confidence": 0.6776672601699829,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Shha\\9.jpg",
+            "expected_class": "Shha",
+            "predicted_class": "Shha",
+            "confidence": 0.8450025916099548,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Space\\1.jpg",
+            "expected_class": "Space",
+            "predicted_class": "Space",
+            "confidence": 0.5081523060798645,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Space\\10.jpg",
+            "expected_class": "Space",
+            "predicted_class": "Space",
+            "confidence": 0.7368996143341064,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Space\\2.jpg",
+            "expected_class": "Space",
+            "predicted_class": "Space",
+            "confidence": 0.3667949438095093,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Space\\3.jpg",
+            "expected_class": "Space",
+            "predicted_class": "Space",
+            "confidence": 0.38265272974967957,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Space\\4.jpg",
+            "expected_class": "Space",
+            "predicted_class": "Space",
+            "confidence": 0.5170034766197205,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Space\\5.jpg",
+            "expected_class": "Space",
+            "predicted_class": "Space",
+            "confidence": 0.5877243280410767,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Space\\6.jpg",
+            "expected_class": "Space",
+            "predicted_class": "Space",
+            "confidence": 0.8121573328971863,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Space\\7.jpg",
+            "expected_class": "Space",
+            "predicted_class": "Space",
+            "confidence": 0.29820817708969116,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Space\\8.jpg",
+            "expected_class": "Space",
+            "predicted_class": "Gha",
+            "confidence": 0.2036571502685547,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Space\\9.jpg",
+            "expected_class": "Space",
+            "predicted_class": "Space",
+            "confidence": 0.7376766204833984,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ta\\1.jpg",
+            "expected_class": "Ta",
+            "predicted_class": "Gha",
+            "confidence": 0.15822239220142365,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ta\\10.jpg",
+            "expected_class": "Ta",
+            "predicted_class": "Ee",
+            "confidence": 0.26014935970306396,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ta\\2.jpg",
+            "expected_class": "Ta",
+            "predicted_class": "Ma",
+            "confidence": 0.17134572565555573,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ta\\3.jpg",
+            "expected_class": "Ta",
+            "predicted_class": "Ee",
+            "confidence": 0.17574693262577057,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ta\\4.jpg",
+            "expected_class": "Ta",
+            "predicted_class": "Gha",
+            "confidence": 0.11849872022867203,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ta\\5.jpg",
+            "expected_class": "Ta",
+            "predicted_class": "Ee",
+            "confidence": 0.3740522265434265,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ta\\6.jpg",
+            "expected_class": "Ta",
+            "predicted_class": "Ee",
+            "confidence": 0.20440617203712463,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ta\\7.jpg",
+            "expected_class": "Ta",
+            "predicted_class": "Ee",
+            "confidence": 0.19593515992164612,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ta\\8.jpg",
+            "expected_class": "Ta",
+            "predicted_class": "Ee",
+            "confidence": 0.4204595983028412,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ta\\9.jpg",
+            "expected_class": "Ta",
+            "predicted_class": "Ee",
+            "confidence": 0.34368982911109924,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Tha\\1.jpg",
+            "expected_class": "Tha",
+            "predicted_class": "Tha",
+            "confidence": 0.2441825419664383,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Tha\\10.jpg",
+            "expected_class": "Tha",
+            "predicted_class": "Ra",
+            "confidence": 0.36850613355636597,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Tha\\2.jpg",
+            "expected_class": "Tha",
+            "predicted_class": "Ra",
+            "confidence": 0.42607593536376953,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Tha\\3.jpg",
+            "expected_class": "Tha",
+            "predicted_class": "Ra",
+            "confidence": 0.3380281925201416,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Tha\\4.jpg",
+            "expected_class": "Tha",
+            "predicted_class": "Ra",
+            "confidence": 0.2991248369216919,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Tha\\5.jpg",
+            "expected_class": "Tha",
+            "predicted_class": "Tha",
+            "confidence": 0.35514381527900696,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Tha\\6.jpg",
+            "expected_class": "Tha",
+            "predicted_class": "Tha",
+            "confidence": 0.3563910722732544,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Tha\\7.jpg",
+            "expected_class": "Tha",
+            "predicted_class": "Ra",
+            "confidence": 0.27904272079467773,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Tha\\8.jpg",
+            "expected_class": "Tha",
+            "predicted_class": "Tha",
+            "confidence": 0.44483280181884766,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Tha\\9.jpg",
+            "expected_class": "Tha",
+            "predicted_class": "Ra",
+            "confidence": 0.3143253028392792,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_a\\1.jpg",
+            "expected_class": "T_a",
+            "predicted_class": "Au",
+            "confidence": 0.28322088718414307,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_a\\10.jpg",
+            "expected_class": "T_a",
+            "predicted_class": "Pha",
+            "confidence": 0.19323129951953888,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_a\\2.jpg",
+            "expected_class": "T_a",
+            "predicted_class": "La",
+            "confidence": 0.18166878819465637,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_a\\3.jpg",
+            "expected_class": "T_a",
+            "predicted_class": "Au",
+            "confidence": 0.30442121624946594,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_a\\4.jpg",
+            "expected_class": "T_a",
+            "predicted_class": "Au",
+            "confidence": 0.21606102585792542,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_a\\5.jpg",
+            "expected_class": "T_a",
+            "predicted_class": "La",
+            "confidence": 0.15455259382724762,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_a\\6.jpg",
+            "expected_class": "T_a",
+            "predicted_class": "Au",
+            "confidence": 0.20379598438739777,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_a\\7.jpg",
+            "expected_class": "T_a",
+            "predicted_class": "Au",
+            "confidence": 0.2932387888431549,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_a\\8.jpg",
+            "expected_class": "T_a",
+            "predicted_class": "Pha",
+            "confidence": 0.2268896847963333,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_a\\9.jpg",
+            "expected_class": "T_a",
+            "predicted_class": "Da",
+            "confidence": 0.15824058651924133,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_ha\\1.jpg",
+            "expected_class": "T_ha",
+            "predicted_class": "A",
+            "confidence": 0.16161546111106873,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_ha\\10.jpg",
+            "expected_class": "T_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.3287494480609894,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_ha\\2.jpg",
+            "expected_class": "T_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.14562813937664032,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_ha\\3.jpg",
+            "expected_class": "T_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.208168163895607,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_ha\\4.jpg",
+            "expected_class": "T_ha",
+            "predicted_class": "D_ha",
+            "confidence": 0.19846023619174957,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_ha\\5.jpg",
+            "expected_class": "T_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.18260279297828674,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_ha\\6.jpg",
+            "expected_class": "T_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.24685175716876984,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_ha\\7.jpg",
+            "expected_class": "T_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.3052583932876587,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_ha\\8.jpg",
+            "expected_class": "T_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.22727973759174347,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\T_ha\\9.jpg",
+            "expected_class": "T_ha",
+            "predicted_class": "Nothing",
+            "confidence": 0.25201040506362915,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U\\1.jpg",
+            "expected_class": "U",
+            "predicted_class": "Rha",
+            "confidence": 0.9868018627166748,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U\\10.jpg",
+            "expected_class": "U",
+            "predicted_class": "Rha",
+            "confidence": 0.9690984487533569,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U\\2.jpg",
+            "expected_class": "U",
+            "predicted_class": "Rha",
+            "confidence": 0.9818352460861206,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U\\3.jpg",
+            "expected_class": "U",
+            "predicted_class": "Rha",
+            "confidence": 0.9907771348953247,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U\\4.jpg",
+            "expected_class": "U",
+            "predicted_class": "Rha",
+            "confidence": 0.9695039987564087,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U\\5.jpg",
+            "expected_class": "U",
+            "predicted_class": "Rha",
+            "confidence": 0.9594123959541321,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U\\6.jpg",
+            "expected_class": "U",
+            "predicted_class": "Rha",
+            "confidence": 0.9743945002555847,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U\\7.jpg",
+            "expected_class": "U",
+            "predicted_class": "Rha",
+            "confidence": 0.9247870445251465,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U\\8.jpg",
+            "expected_class": "U",
+            "predicted_class": "Rha",
+            "confidence": 0.9534251093864441,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U\\9.jpg",
+            "expected_class": "U",
+            "predicted_class": "Rha",
+            "confidence": 0.9314606785774231,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Uu\\1.jpg",
+            "expected_class": "Uu",
+            "predicted_class": "Uu_",
+            "confidence": 0.22482094168663025,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Uu\\10.jpg",
+            "expected_class": "Uu",
+            "predicted_class": "Uu_",
+            "confidence": 0.34927764534950256,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Uu\\2.jpg",
+            "expected_class": "Uu",
+            "predicted_class": "Uu_",
+            "confidence": 0.16188141703605652,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Uu\\3.jpg",
+            "expected_class": "Uu",
+            "predicted_class": "Uu_",
+            "confidence": 0.2505844235420227,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Uu\\4.jpg",
+            "expected_class": "Uu",
+            "predicted_class": "Ilh",
+            "confidence": 0.1648033857345581,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Uu\\5.jpg",
+            "expected_class": "Uu",
+            "predicted_class": "Uu_",
+            "confidence": 0.1638777107000351,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Uu\\6.jpg",
+            "expected_class": "Uu",
+            "predicted_class": "Uu_",
+            "confidence": 0.2572512924671173,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Uu\\7.jpg",
+            "expected_class": "Uu",
+            "predicted_class": "Uu_",
+            "confidence": 0.2989223897457123,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Uu\\8.jpg",
+            "expected_class": "Uu",
+            "predicted_class": "Uu_",
+            "confidence": 0.25199198722839355,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Uu\\9.jpg",
+            "expected_class": "Uu",
+            "predicted_class": "Uu_",
+            "confidence": 0.45238345861434937,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Uu_\\1.jpg",
+            "expected_class": "Uu_",
+            "predicted_class": "Ba",
+            "confidence": 0.3605404198169708,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Uu_\\10.jpg",
+            "expected_class": "Uu_",
+            "predicted_class": "Ba",
+            "confidence": 0.3358065187931061,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Uu_\\2.jpg",
+            "expected_class": "Uu_",
+            "predicted_class": "Nothing",
+            "confidence": 0.15700390934944153,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Uu_\\3.jpg",
+            "expected_class": "Uu_",
+            "predicted_class": "Ba",
+            "confidence": 0.2299855500459671,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Uu_\\4.jpg",
+            "expected_class": "Uu_",
+            "predicted_class": "Ba",
+            "confidence": 0.24870748817920685,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Uu_\\5.jpg",
+            "expected_class": "Uu_",
+            "predicted_class": "Ba",
+            "confidence": 0.8738226294517517,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Uu_\\6.jpg",
+            "expected_class": "Uu_",
+            "predicted_class": "Ba",
+            "confidence": 0.4037151336669922,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Uu_\\7.jpg",
+            "expected_class": "Uu_",
+            "predicted_class": "Uu_",
+            "confidence": 0.11482905596494675,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Uu_\\8.jpg",
+            "expected_class": "Uu_",
+            "predicted_class": "Ba",
+            "confidence": 0.24537044763565063,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Uu_\\9.jpg",
+            "expected_class": "Uu_",
+            "predicted_class": "Ba",
+            "confidence": 0.32811516523361206,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U_\\1.jpg",
+            "expected_class": "U_",
+            "predicted_class": "Ba",
+            "confidence": 0.209150031208992,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U_\\10.jpg",
+            "expected_class": "U_",
+            "predicted_class": "Ba",
+            "confidence": 0.3439038097858429,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U_\\2.jpg",
+            "expected_class": "U_",
+            "predicted_class": "Ba",
+            "confidence": 0.15813502669334412,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U_\\3.jpg",
+            "expected_class": "U_",
+            "predicted_class": "Ba",
+            "confidence": 0.3404824733734131,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U_\\4.jpg",
+            "expected_class": "U_",
+            "predicted_class": "Ba",
+            "confidence": 0.321439653635025,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U_\\5.jpg",
+            "expected_class": "U_",
+            "predicted_class": "Ba",
+            "confidence": 0.5359112024307251,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U_\\6.jpg",
+            "expected_class": "U_",
+            "predicted_class": "Ba",
+            "confidence": 0.2014268934726715,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U_\\7.jpg",
+            "expected_class": "U_",
+            "predicted_class": "Ba",
+            "confidence": 0.15580160915851593,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U_\\8.jpg",
+            "expected_class": "U_",
+            "predicted_class": "Ba",
+            "confidence": 0.41528770327568054,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\U_\\9.jpg",
+            "expected_class": "U_",
+            "predicted_class": "Ba",
+            "confidence": 0.21703006327152252,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Va\\1.jpg",
+            "expected_class": "Va",
+            "predicted_class": "Pa",
+            "confidence": 0.6963393688201904,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Va\\10.jpg",
+            "expected_class": "Va",
+            "predicted_class": "Gha",
+            "confidence": 0.7734125852584839,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Va\\2.jpg",
+            "expected_class": "Va",
+            "predicted_class": "Pa",
+            "confidence": 0.5244649648666382,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Va\\3.jpg",
+            "expected_class": "Va",
+            "predicted_class": "Pa",
+            "confidence": 0.7784848809242249,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Va\\4.jpg",
+            "expected_class": "Va",
+            "predicted_class": "Gha",
+            "confidence": 0.4719812572002411,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Va\\5.jpg",
+            "expected_class": "Va",
+            "predicted_class": "Pa",
+            "confidence": 0.4941854476928711,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Va\\6.jpg",
+            "expected_class": "Va",
+            "predicted_class": "Gha",
+            "confidence": 0.7094138264656067,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Va\\7.jpg",
+            "expected_class": "Va",
+            "predicted_class": "Gha",
+            "confidence": 0.7050343751907349,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Va\\8.jpg",
+            "expected_class": "Va",
+            "predicted_class": "Pa",
+            "confidence": 0.4921070337295532,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Va\\9.jpg",
+            "expected_class": "Va",
+            "predicted_class": "Pa",
+            "confidence": 0.622684895992279,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Ya\\1.jpg",
+            "expected_class": "Ya",
+            "predicted_class": "Ya",
+            "confidence": 0.36467933654785156,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ya\\10.jpg",
+            "expected_class": "Ya",
+            "predicted_class": "Ya",
+            "confidence": 0.3163646161556244,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ya\\2.jpg",
+            "expected_class": "Ya",
+            "predicted_class": "Ya",
+            "confidence": 0.5458180904388428,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ya\\3.jpg",
+            "expected_class": "Ya",
+            "predicted_class": "Ya",
+            "confidence": 0.2861151099205017,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ya\\4.jpg",
+            "expected_class": "Ya",
+            "predicted_class": "Ya",
+            "confidence": 0.30670541524887085,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ya\\5.jpg",
+            "expected_class": "Ya",
+            "predicted_class": "Ya",
+            "confidence": 0.30796584486961365,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ya\\6.jpg",
+            "expected_class": "Ya",
+            "predicted_class": "Ya",
+            "confidence": 0.3943978250026703,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ya\\7.jpg",
+            "expected_class": "Ya",
+            "predicted_class": "Ya",
+            "confidence": 0.4007849097251892,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ya\\8.jpg",
+            "expected_class": "Ya",
+            "predicted_class": "Ya",
+            "confidence": 0.3674732744693756,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Ya\\9.jpg",
+            "expected_class": "Ya",
+            "predicted_class": "Ya",
+            "confidence": 0.43329498171806335,
+            "status": "success",
+            "correct": true
+        },
+        {
+            "image_path": "test_data\\Zha\\1.jpg",
+            "expected_class": "Zha",
+            "predicted_class": "Ba",
+            "confidence": 0.207871675491333,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Zha\\10.jpg",
+            "expected_class": "Zha",
+            "predicted_class": "E_",
+            "confidence": 0.13286752998828888,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Zha\\2.jpg",
+            "expected_class": "Zha",
+            "predicted_class": "T_ha",
+            "confidence": 0.13119836151599884,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Zha\\3.jpg",
+            "expected_class": "Zha",
+            "predicted_class": "E_",
+            "confidence": 0.3149414658546448,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Zha\\4.jpg",
+            "expected_class": "Zha",
+            "predicted_class": "Rha",
+            "confidence": 0.12004303187131882,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Zha\\5.jpg",
+            "expected_class": "Zha",
+            "predicted_class": "Uu_",
+            "confidence": 0.12176910042762756,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Zha\\6.jpg",
+            "expected_class": "Zha",
+            "predicted_class": "E_",
+            "confidence": 0.16852493584156036,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Zha\\7.jpg",
+            "expected_class": "Zha",
+            "predicted_class": "E_",
+            "confidence": 0.23928438127040863,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Zha\\8.jpg",
+            "expected_class": "Zha",
+            "predicted_class": "E_",
+            "confidence": 0.1858198493719101,
+            "status": "success",
+            "correct": false
+        },
+        {
+            "image_path": "test_data\\Zha\\9.jpg",
+            "expected_class": "Zha",
+            "predicted_class": "E_",
+            "confidence": 0.15690547227859497,
+            "status": "success",
+            "correct": false
+        }
+    ],
+    "accuracy": 0.2816666666666667
+}

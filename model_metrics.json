@@ -1,1 +1,1 @@
-{"test_loss": 0.008474948816001415, "test_accuracy": 0.9983333349227905, "num_classes": 60, "image_size": [128, 128]}
+{"test_loss": 0.04185132682323456, "test_accuracy": 0.9962499737739563, "num_classes": 60, "image_size": [128, 128]}

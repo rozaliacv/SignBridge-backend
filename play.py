@@ -89,7 +89,7 @@ class SignLanguageDetector:
 def main():
     # Initialize detector
     detector = SignLanguageDetector(
-        model_path="malayalam_sign_model.h5",
+        model_path="malayalam_sign_model_improved.h5",
         class_mapping_path="class_mapping.json"
     )
     

@@ -1,0 +1,1 @@
+{"training_accuracy": 0.9935937523841858, "validation_accuracy": 0.9985413551330566, "training_loss": 0.20106734335422516, "validation_loss": 0.1358255296945572, "num_classes": 60, "image_size": [128, 128]}
